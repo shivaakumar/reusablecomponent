@@ -1,0 +1,13 @@
+{
+  "name": "access-control-component",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "angular-acl": "^0.1.9"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.0"
+  },
+  "appPath": "app",
+  "moduleName": "accessControlComponentApp"
+}
